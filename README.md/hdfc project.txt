@@ -1,0 +1,80 @@
+# HDFC Bank Customer Churn Analysis
+
+## 📌 Project Overview
+
+This project analyzes customer data to understand customer behavior, churn patterns, account balances, and demographic trends. The analysis was performed using Python, SQL, and Jupyter Notebook.
+
+---
+
+## 🎯 Objectives
+
+- Clean and preprocess banking data
+- Analyze customer demographics
+- Identify churn patterns
+- Visualize important business insights
+- Perform SQL-based analysis
+
+---
+
+## 🛠️ Tools & Technologies
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- MySQL
+- Jupyter Notebook
+
+---
+
+## 📂 Project Structure
+
+HDFC_Bank_Data_Analysis/
+│
+├── Data/
+├── Notebook/
+├── SQL/
+├── Images/
+└── README.md
+
+---
+
+## 📊 Key Insights
+
+- Customer distribution by country
+- Gender distribution
+- Churn analysis
+- Age distribution
+- Credit score distribution
+- Average balance by country
+- Active vs inactive members
+
+---
+
+## 📈 Visualizations
+
+- Customer Distribution
+- Gender Distribution
+- Churn Distribution
+- Credit Score Distribution
+- Balance Box Plot
+- Age vs Balance
+
+
+---
+
+## 🗃️ SQL Analysis
+
+Performed SQL queries using:
+
+- SELECT
+- WHERE
+- GROUP BY
+- ORDER BY
+- Aggregate Functions
+
+---
+
+## 📌 Conclusion
+
+This project demonstrates how Python and SQL can be used together to analyze banking customer data and generate actionable business insights.
